@@ -1,6 +1,6 @@
-CarListApp 🚗
+CarListApp
 
-​A cross-platform mobile application built with .NET MAUI that allows users to manage a collection of car listings. This project demonstrates modern mobile development practices, including local database integration and the MVVM architectural pattern.
+🚗 ​A cross-platform mobile application built with .NET MAUI that allows users to manage a collection of car listings. This project demonstrates modern mobile development practices, including local database integration and the MVVM architectural pattern.
 
 ​🚀 Features
 ​Cross-Platform: Runs on Android, iOS, macOS, and Windows from a single C# codebase.
